@@ -38,8 +38,8 @@ This project compares a static Equal Weight Risk Contribution (EWRC) portfolio a
 **Main Result**: EWRC successfully balanced risk but underperformed (5.85% vs 7.40% CAGR) due to overweighting bonds with negative Sharpe ratios.
 
 ## Files Included
-- `homework_1.ipynb`: Notebook with code and analysis  
-- `homework_1.pdf`: Final report with detailed findings  
+- `Risk Parity.ipynb`: Notebook with code and analysis  
+- `Risk Parity presentation.pdf`: Final report with detailed findings  
 - `data/`: Contains price data for 5 assets  
 
 ## Tools Used
