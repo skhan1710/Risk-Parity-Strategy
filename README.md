@@ -40,7 +40,6 @@ This project compares a static Equal Weight Risk Contribution (EWRC) portfolio a
 ## Files Included
 - `Risk Parity.ipynb`: Notebook with code and analysis  
 - `Risk Parity presentation.pdf`: Final report with detailed findings  
-- `data/`: Contains price data for 5 assets  
 
 ## Tools Used
 - Python  
@@ -49,7 +48,6 @@ This project compares a static Equal Weight Risk Contribution (EWRC) portfolio a
 
 ## How to Run
 Open the notebook using **Jupyter Notebook** or **VS Code**.  
-Ensure that the asset price data is available.  
 
 ## References
 
